@@ -1,0 +1,21 @@
+{
+  "name": "fastpub",
+  "version": "1.0.0",
+  "description": "FastPub made by Kalyax#4031",
+  "main": "main.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "Kalyax",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "file-system": "^2.2.2",
+    "node-json-db": "^0.7.5"
+  },
+  "license": "ISC"
+}
